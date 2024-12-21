@@ -18,7 +18,69 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
 /*  Set the font */
 body {
   font-family: "Helvetica", sans-serif;
+  
 }
 
 /* STYLES */
 /* Write your CSS below */
+.container{
+ width: 100%;
+  position:relative
+  
+
+
+}
+h1{
+  position:absolute;
+  right: 50%;
+  top:50%;
+  color: white;
+  font-size: 70px;
+}
+img{
+  display: block;
+width: 100%;
+height: 100%;
+}
+.text-container{
+  width: 100%;
+ margin-left: 50px;
+ margin-top: 50px;
+ margin-right: 50px;
+ margin-bottom: 50px;
+line-height: 25px;
+}
+p{
+  font-size: 21px;
+
+}
+#recipe-img{
+  width: 400px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  height: 50px;
+}
+.ingredients{
+  margin-left: 50px;
+}
+#header-ing{
+  margin-bottom: 30px;
+  margin-left: -15px;
+}
+#cooking-id{
+  height:50px ;
+  width: 400px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+#Directions-id{
+  margin-bottom: 30px;
+  margin-top: 30px;
+  margin-left: -15px;
+
+ 
+}
